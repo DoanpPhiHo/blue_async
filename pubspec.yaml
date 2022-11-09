@@ -1,5 +1,6 @@
 name: blue_async
-description: A new Flutter plugin project.
+description: Flutter plugin for auto connecting and communicating with Bluetooth Low Energy devices,
+  on Android and iOS
 version: 0.0.1
 homepage: https://github.com/DoanpPhiHo/blue_async
 
